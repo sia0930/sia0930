@@ -24,9 +24,8 @@ A hard worker who looks forward to giving flexible perspectives to itself and fe
 
 ## Tech Stacks | 👩‍💻
 
-- ![Static Badge](https://img.shields.io/badge/UNITY-Game%20Engine?style=for-the-badge&logo=Unity&logoColor=white&color=black)
-
-- ![Static Badge](https://img.shields.io/badge/UNREAL-Game%20Engine?style=for-the-badge&logo=Unreal%20Engine&logoColor=white&color=grey)
+ ![Static Badge](https://img.shields.io/badge/UNITY-Game%20Engine?style=for-the-badge&logo=Unity&logoColor=white&color=black)
+ ![Static Badge](https://img.shields.io/badge/UNREAL-Game%20Engine?style=for-the-badge&logo=Unreal%20Engine&logoColor=white&color=grey)
 
 ## Contanct | 📧 
 > [!NOTE]
